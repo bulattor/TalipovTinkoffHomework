@@ -24,4 +24,10 @@ fun main(){
 
     val slsFlight = Flight(sls, Date(), "John Fitzgerald Kennedy Space Center")
     slsFlight.launch()
+
+    //polymorphism example
+    println()
+    (skylon as SpaceVehicle).run()
+    println()
+    (starship as SpaceVehicle).run()
 }
