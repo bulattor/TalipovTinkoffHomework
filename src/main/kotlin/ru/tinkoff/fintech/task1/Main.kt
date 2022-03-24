@@ -1,4 +1,4 @@
-package ru.tinkoff.homework.task1
+package ru.tinkoff.fintech.task1
 
 import java.util.*
 
