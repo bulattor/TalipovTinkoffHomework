@@ -1,4 +1,4 @@
-package ru.tinkoff.fintech.task1
+package ru.tinkoff.fintech.task3
 
 class SpacePlane(override val id: Int, override val name: String, override val creator: String) : SpaceVehicle {
 
