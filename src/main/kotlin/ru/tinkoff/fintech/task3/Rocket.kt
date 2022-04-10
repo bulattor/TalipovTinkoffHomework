@@ -1,4 +1,4 @@
-package ru.tinkoff.fintech.task1
+package ru.tinkoff.fintech.task3
 
 class Rocket(override val id: Int, override val name: String, override val creator: String, var stages: Int) :
     SpaceVehicle {
